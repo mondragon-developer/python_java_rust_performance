@@ -86,7 +86,7 @@ cargo run
 
 **Jose R. Mondragon**  
 Senior Software Engineer | Educator | AI & Simulation Enthusiast  
-LinkedIn: [https://www.linkedin.com/in/mondradev/] 
-GitHub: []
+LinkedIn: https://www.linkedin.com/in/mondradev/
+GitHub: https://github.com/mondragon-developer
 
 ---
