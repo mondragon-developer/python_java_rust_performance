@@ -1,0 +1,11 @@
+Top 10 most common words:
+sentence: 1747626
+a: 1747626
+that: 1747626
+be: 1747626
+times.: 1747626
+will: 1747626
+this: 1747626
+is: 1747626
+many: 1747626
+sample: 1747626
